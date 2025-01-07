@@ -13,13 +13,22 @@ struct ColorSwiftUI: View {
             .fill(
                 //Color .red
                 //we can take usefull color functions from UIKIT like SystemaBackground
-                Color(UIColor .tertiarySystemBackground)
+                Color(UIColor .secondarySystemBackground)
             )
             .frame(width: 300, height: 200)
+        
+        VStack{
+            Circle()
+                .fill(
+                    //This custom color change as the systema background changes it is set in the Assets area
+                    Color("CustomColor")
+                )
+                .frame(width: 200, height: 200)
+        }
     }
 }
 
 #Preview {
     ColorSwiftUI()
-        .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
+        .preferredColorScheme(.dark)
 }
