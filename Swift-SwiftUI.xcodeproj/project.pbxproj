@@ -14,6 +14,7 @@
 		5E8701C12D2D891300B740BB /* Swift_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701C02D2D891300B740BB /* Swift_SwiftUITests.swift */; };
 		5E8701CB2D2D891300B740BB /* Swift_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701CA2D2D891300B740BB /* Swift_SwiftUIUITests.swift */; };
 		5E8701CD2D2D891300B740BB /* Swift_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701CC2D2D891300B740BB /* Swift_SwiftUIUITestsLaunchTests.swift */; };
+		5EFB41C52D2DB17C008DC274 /* ShapeSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB41C42D2DB17C008DC274 /* ShapeSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5E8701C62D2D891300B740BB /* Swift-SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift-SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E8701CA2D2D891300B740BB /* Swift_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		5E8701CC2D2D891300B740BB /* Swift_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5EFB41C42D2DB17C008DC274 /* ShapeSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeSwiftUI.swift; sourceTree = "<group>"; tabWidth = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				5E8701AF2D2D891000B740BB /* Swift_SwiftUIApp.swift */,
 				5E8701B12D2D891000B740BB /* ContentView.swift */,
+				5EFB41C42D2DB17C008DC274 /* ShapeSwiftUI.swift */,
 				5E8701B32D2D891300B740BB /* Assets.xcassets */,
 				5E8701B52D2D891300B740BB /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				5E8701B22D2D891000B740BB /* ContentView.swift in Sources */,
 				5E8701B02D2D891000B740BB /* Swift_SwiftUIApp.swift in Sources */,
+				5EFB41C52D2DB17C008DC274 /* ShapeSwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
