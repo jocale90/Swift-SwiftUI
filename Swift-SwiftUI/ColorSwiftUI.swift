@@ -16,6 +16,9 @@ struct ColorSwiftUI: View {
                 Color(UIColor .secondarySystemBackground)
             )
             .frame(width: 300, height: 200)
+            .shadow(
+                color: Color("CustomColor").opacity(0.3),
+                radius: 10, x: -20, y: -20 )
         
         VStack{
             Circle()

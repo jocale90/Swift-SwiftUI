@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E3D6BC72D3079F1009F44BD /* GradientSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */; };
 		5E8701B02D2D891000B740BB /* Swift_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701AF2D2D891000B740BB /* Swift_SwiftUIApp.swift */; };
 		5E8701B22D2D891000B740BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701B12D2D891000B740BB /* ContentView.swift */; };
 		5E8701B42D2D891300B740BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E8701B32D2D891300B740BB /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientSwiftUI.swift; sourceTree = "<group>"; };
 		5E8701AC2D2D891000B740BB /* Swift-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E8701AF2D2D891000B740BB /* Swift_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_SwiftUIApp.swift; sourceTree = "<group>"; };
 		5E8701B12D2D891000B740BB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				5E8701B12D2D891000B740BB /* ContentView.swift */,
 				5EFB41C42D2DB17C008DC274 /* ShapeSwiftUI.swift */,
 				5EFB41C62D2DC564008DC274 /* ColorSwiftUI.swift */,
+				5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */,
 				5E8701B32D2D891300B740BB /* Assets.xcassets */,
 				5E8701B52D2D891300B740BB /* Preview Content */,
 			);
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E8701B22D2D891000B740BB /* ContentView.swift in Sources */,
+				5E3D6BC72D3079F1009F44BD /* GradientSwiftUI.swift in Sources */,
 				5E8701B02D2D891000B740BB /* Swift_SwiftUIApp.swift in Sources */,
 				5EFB41C52D2DB17C008DC274 /* ShapeSwiftUI.swift in Sources */,
 				5EFB41C72D2DC565008DC274 /* ColorSwiftUI.swift in Sources */,
