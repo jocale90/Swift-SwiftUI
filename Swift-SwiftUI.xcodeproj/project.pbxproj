@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E3577382D48735800AD341E /* ImageSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3577372D48735800AD341E /* ImageSwiftUI.swift */; };
 		5E3D6BC72D3079F1009F44BD /* GradientSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */; };
 		5E84983E2D343E8800C99C98 /* IconsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E84983D2D343E8800C99C98 /* IconsSwiftUI.swift */; };
 		5E8701B02D2D891000B740BB /* Swift_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8701AF2D2D891000B740BB /* Swift_SwiftUIApp.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E3577372D48735800AD341E /* ImageSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwiftUI.swift; sourceTree = "<group>"; };
 		5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientSwiftUI.swift; sourceTree = "<group>"; };
 		5E84983D2D343E8800C99C98 /* IconsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsSwiftUI.swift; sourceTree = "<group>"; };
 		5E8701AC2D2D891000B740BB /* Swift-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,6 +110,7 @@
 				5EFB41C62D2DC564008DC274 /* ColorSwiftUI.swift */,
 				5E3D6BC62D3079F1009F44BD /* GradientSwiftUI.swift */,
 				5E84983D2D343E8800C99C98 /* IconsSwiftUI.swift */,
+				5E3577372D48735800AD341E /* ImageSwiftUI.swift */,
 				5E8701B32D2D891300B740BB /* Assets.xcassets */,
 				5E8701B52D2D891300B740BB /* Preview Content */,
 			);
@@ -271,6 +274,7 @@
 			files = (
 				5E8701B22D2D891000B740BB /* ContentView.swift in Sources */,
 				5E3D6BC72D3079F1009F44BD /* GradientSwiftUI.swift in Sources */,
+				5E3577382D48735800AD341E /* ImageSwiftUI.swift in Sources */,
 				5E84983E2D343E8800C99C98 /* IconsSwiftUI.swift in Sources */,
 				5E8701B02D2D891000B740BB /* Swift_SwiftUIApp.swift in Sources */,
 				5EFB41C52D2DB17C008DC274 /* ShapeSwiftUI.swift in Sources */,
